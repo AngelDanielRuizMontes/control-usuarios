@@ -11,16 +11,22 @@ Aplicación que permite a los usuarios iniciar sesión ingresando su nombre de u
 ## Capturas de pantalla
 Inicio de la Aplicaciíon. <br/>
 <img src="./img/inicio.png">
+
 Formulario de inicio de sesión.<br/>
 <img src="./img/login.png">
+
 Credenciales introducidos erroneos.<br/>
 <img src="./img/loginErroneo.png">
+
 Sesión iniciada.<br/>
 <img src="./img/sesionIniciada.png">
+
 Información del usuario.<br/>
 <img src="./img/informacion.png">
+
 Edición del usuario.<br/>
 <img src="./img/edicion.png">
+
 Usuario editado.<br/>
 <img src="./img/editado.png">
  
